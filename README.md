@@ -41,7 +41,7 @@ _Team Lead_
     <li>Mentored 1st and 2nd-year students involved in the project.</li>
 <ul>
 
-    **SLS Admin Website**
+**SLS Admin Website**
 _Senior Developer_
 **_Spring 2023_**
 **Project Summary:** _I was a senior developer and I worked on updating and maintaining the admin website for the Sound and Lights Service at Michigan Technological University._
