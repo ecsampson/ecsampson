@@ -22,6 +22,8 @@ I am a motivated and detail-oriented Computer Science graduate from Michigan Tec
 
 #
 
+#
+
 ### 🛠️ Projects
 
 **Houghton County Historical Society Kiosk Project**
