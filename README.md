@@ -39,7 +39,7 @@ _Team Lead_
     <li>Reviewed and approved design documents and specifications.</li>
     <li>Coordinated development activities among team members.</li>
     <li>Mentored 1st and 2nd-year students involved in the project.</li>
-<ul>
+</ul>
 
 **SLS Admin Website**
 _Senior Developer_
