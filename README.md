@@ -54,7 +54,7 @@ _Senior Developer_
     <li>Shared knowledge and best practices within the development team.</li>
     <li>Advised the sponsor on newer technologies to enhance project timeline and functionality.</li>
     <li>Managed source code using version control systems.</li>
-<ul>
+</ul>
 
 **Database Final Project**
 _Full Stack Developer_
@@ -70,7 +70,7 @@ _Full Stack Developer_
     <li>Implemented authentication and authorization mechanisms to secure user data and control access.</li>
     <li>Applied security best practices to protect against SQL Injection and other vulnerabilities.</li>
     <li>Wrote efficient SQL queries to optimize database interactions and performance.</li>
-<ul>
+</ul>
 
 **Underwater Image Enhancement AI Classification**
 _Senior Developer_
@@ -84,7 +84,7 @@ _Senior Developer_
     <li>Preprocessed data, including normalization, augmentation, and splitting into training, validation, and test sets.</li>
     <li>Trained models with various image enhancement software, monitoring the training process to ensure convergence and avoid overfitting.</li>
     <li>Analyzed the impact of different image enhancement techniques on AI classification performance, including comparisons with unenhanced images.</li>
-<ul>
+</ul>
 
 **Restart Robot**
 _AI Developer/Map Developer_
@@ -102,7 +102,7 @@ _AI Developer/Map Developer_
     <li>Designed levels that incorporated obstacles and traps to enhance gameplay dynamics.</li>
     <li>Conducted playtesting to ensure maps were engaging and enjoyable.</li>
     <li>Collaborated closely with developers and artists to share ideas and align on project goals.</li>
-<ul>
+</ul>
 
 #
 
