@@ -1,6 +1,6 @@
 # 👋 Ethan Sampson
 
-**'Computer Science Graduate (Software Engineer/Data Analyst)'**
+**Computer Science Graduate (Software Engineer/Data Analyst)**
 
 I am a motivated and detail-oriented Computer Science graduate from Michigan Technological University with strong proficiency in C/C++, Java, and SQL. Over three years of hands-on experience utilizing GitHub for version control and collaborative development. I have successfully led a team for a year in a sponsored project, demonstrating leadership and project management skills. Passionate about data analysis, data cleaning, and backend development, eager to leverage technical skills to contribute to innovative projects in a dynamic tech environment.
 
