@@ -34,7 +34,7 @@ An end-to-end ETL pipeline that ingests weather data, stores it in S3, and makes
 
 `Python` `AWS S3` `AWS Lambda` `Athena` `Power BI` `dbt` `Parquet`
 
-*(Link this repo here once it's public — 👉 `[NOAA Weather ETL Pipeline](your-repo-url-here)`)*
+*([NOAA Weather ETL Pipeline](https://github.com/ecsampson/flagship_project))*
 
 ---
 
